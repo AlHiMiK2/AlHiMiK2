@@ -1,16 +1,16 @@
-## Hi there 👋
+### Резюме Матвеев Артём
 
-<!--
-**AlHiMiK2/AlHiMiK2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Контакты:
+Telegram: @AlHiMiK5
+Steam: profiles/76561198998688246
+Email: alhimikgame@yandex.ru
 
-Here are some ideas to get you started:
+### 2021-2024
+Unity Developer, самостоятельный разработчик
+Создал за это время множество проектов,
+Работал с Unity VC, Zenject и Dotween
+Могу написать код и сделать большинство работы в Unity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Портфолио
+t.me/+Fsfz6k-EsK5lZjYy
+
