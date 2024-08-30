@@ -3,7 +3,7 @@
 ### Контакты:
 Telegram: @AlHiMiK5  
 Steam: profiles/76561198998688246  
-Email: alhimikgame@yandex.ru  
+Email: AlHiMiKGAME@yandex.ru  
 
 ### 2021-2024
 Unity Developer, самостоятельный разработчик.  
