@@ -8,7 +8,7 @@ Email: alhimikgame@yandex.ru
 ### 2021-2024
 Unity Developer, самостоятельный разработчик.  
 Создал за это время множество проектов.  
-Работал с Unity VC, Zenject и Dotween.  
+Работал с Unity VCS, Zenject и Dotween.  
 Могу написать код и сделать большинство работы в Unity.
 
 ### Портфолио
