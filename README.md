@@ -16,7 +16,7 @@ Unity Developer.
 
 ### Портфолио
 t.me/+Fsfz6k-EsK5lZjYy  
-Репозиторий на гитхаб.
+github.com/AlHiMiK2/TopDownShooter
 
 ### Образование 
 Курсы Романа Сакутина и зарубежные видео.  
