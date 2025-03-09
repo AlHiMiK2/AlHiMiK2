@@ -6,7 +6,7 @@ Steam: profiles/76561198998688246
 Email: AlHiMiKGAME@yandex.ru  
 
 ### 2024 - Текущее время  
-Prominence Games.
+Prominence Games. Позиция: Middle Unity Dev
 
 ### Основное
 Unity Developer.
