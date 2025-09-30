@@ -1,7 +1,7 @@
 ### Резюме Матвеев Артём
 
 ### Контакты:
-Telegram: @AlHiMiK5  
+Telegram: @AlHiMiK51    
 Steam: profiles/76561198998688246  
 Email: AlHiMiKGAME@yandex.ru  
 
