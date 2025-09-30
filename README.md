@@ -13,6 +13,7 @@ Prominence Games. Позиция: Middle Unity Dev
 ### Основное
 Unity Developer.  
 Работаю с Git, Zenject и Dotween.  
+Есть опыт с Mirror.    
 Предпочитаю использовать в проектах Hot reload.  
 
 ### Портфолио
