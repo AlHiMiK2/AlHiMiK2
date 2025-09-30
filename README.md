@@ -18,8 +18,7 @@ github.com/AlHiMiK2/TopDownShooter
 github.com/AlHiMiK2/TestTask_ASpaces-main
 
 ### Образование 
-Курсы Романа Сакутина и зарубежные видео.  
-Много практики.
+Самоучка по зарубежным видео.
 
 ### О себе
 Крепко знаю C#. Делаю, как 3д, так и 2д игры на Unity. 
