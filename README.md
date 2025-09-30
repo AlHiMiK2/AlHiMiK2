@@ -22,6 +22,6 @@ github.com/AlHiMiK2/TestTask_ASpaces-main
 
 ### О себе
 Крепко знаю C#. Делаю, как 3д, так и 2д игры на Unity. 
-Есть навыки в ПО: Blender, FL Studio, Photoshop, Illustrator.  
+Часто использую: Blender, FL Studio, Photoshop.  
 Я дружелюбный и легко интегрируюсь в команду.
 
