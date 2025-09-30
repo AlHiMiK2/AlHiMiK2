@@ -8,6 +8,7 @@ Email: helpichswag@gmail.com
 ### 2024 - Текущее время  
 Prominence Games. Позиция: Middle Unity Dev
 За время работы успел сделать много прототипов для тестирования идей.
+Использовал множество разных технологий.
 
 ### Основное
 Unity Developer.  
