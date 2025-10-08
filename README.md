@@ -29,6 +29,6 @@ https://github.com/AlHiMiK2/TestTask_ASpaces-main
 А также МНОГО практики.
 
 ### О себе
-Крепко знаю C#. Делаю, как 3д, так и 2д игры на Unity. 
+Крепко знаю C#. Делаю, как 3д, так и 2д игры на Unity.   
 Люблю чистый код и архитектуру.    
 Часто использую: Blender, FL Studio, Photoshop.    
