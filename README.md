@@ -1,9 +1,8 @@
-### Резюме Матвеев Артём
+### Резюме
 
 ### Контакты:
 Telegram: @AlHiMiK51    
 Steam: profiles/76561198998688246  
-Email: helpichswag@gmail.com  
 
 ### 2024 - 2025
 Prominence Games. Позиция: Middle Unity Dev    
@@ -17,7 +16,6 @@ Prominence Games. Позиция: Middle Unity Dev
 Unity Developer.  
 Работаю с Git, Zenject и Dotween.  
 Есть опыт с Mirror.    
-Предпочитаю использовать в проектах Hot reload.  
 
 ### Портфолио
 https://github.com/AlHiMiK2/City-Card-Builder    
