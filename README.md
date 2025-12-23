@@ -1,7 +1,7 @@
 ### Резюме
 
 ### Контакты:
-Telegram: @AlHiMiK51    
+Telegram: @agarabar    
 Steam: profiles/76561198998688246  
 
 ### 2024 - 2025
