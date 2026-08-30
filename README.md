@@ -4,29 +4,24 @@
 Telegram: @agarabar    
 Steam: profiles/76561198998688246  
 
-### 2024 - 2025
-Prominence Games. Позиция: Middle Unity Dev    
-За время работы успел сделать много прототипов для тестирования идей.    
-Использовал множество разных технологий.
-
-### 2022 - 2024
-Свои PET проекты. Большинство утеряно(
-
 ### Основное
-Unity Developer.  
-Работаю с Git, Zenject и Dotween.  
-Есть опыт с Mirror.    
+4+ года разработки на Unity/C#. 
+Из них 1 год — фриланс в паре с геймдизайнером: реализовывал игровые системы, интеграции и оптимизацию на этапе прототипирования и альфа-версий (проекты не были завершены по управленческим причинам). Также самостоятельно публиковал игры на Яндекс.Игры.
+Имею опыт моддинга Scrap Mechanic — мой мод собрал 2000+ подписчиков и 100 оценок, что подтверждает умение создавать востребованный пользовательский контент.
+
+### Технические компетенции
+— Архитектура: Zenject, ScriptableObjects, UniRx.
+— Сеть: базовое знакомство с Mirror — использовал в прототипах, готов развиваться в этом направлении.
+— Оптимизация: активное использование Unity Profiler и Frame Debugger (выявление узких мест, снижение Draw Calls, управление памятью, оптимизация GC).
+— Графика: работа с URP, базовые шейдеры.
+— SDK: интеграция Yandex SDK (платёжки, реклама, лидерборды).
+— Дополнительные навыки: Blender (модели, несложная анимация), Photoshop (текстуры, UI), FL Studio (звуки, музыка).
+
+### Стек
+Unity, C#, Zenject, UniRx, DOTween, Mirror (базово), Yandex SDK, ScriptableObjects, URP, ShaderLab (базово), Profiler, Frame Debugger, Git.
 
 ### Портфолио
+https://steamcommunity.com/sharedfiles/filedetails/?id=3695299865
 https://github.com/AlHiMiK2/City-Card-Builder    
 https://github.com/AlHiMiK2/TopDownShooter  
-https://github.com/AlHiMiK2/TestTask_ASpaces-main  
-
-### Образование 
-Курсы Романа Сакутина и зарубежные видео.    
-А также МНОГО практики.
-
-### О себе
-Крепко знаю C#. Делаю, как 3д, так и 2д игры на Unity.   
-Люблю чистый код и архитектуру.    
-Часто использую: Blender, FL Studio, Photoshop.    
+https://github.com/AlHiMiK2/TestTask_ASpaces-main 
