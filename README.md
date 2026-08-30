@@ -21,7 +21,7 @@ Steam: profiles/76561198998688246
 Unity, C#, Zenject, UniRx, DOTween, Mirror (базово), Yandex SDK, ScriptableObjects, URP, ShaderLab (базово), Profiler, Frame Debugger, Git.
 
 ### Портфолио
-https://steamcommunity.com/sharedfiles/filedetails/?id=3695299865
+https://steamcommunity.com/sharedfiles/filedetails/?id=3695299865  
 https://github.com/AlHiMiK2/City-Card-Builder    
 https://github.com/AlHiMiK2/TopDownShooter  
 https://github.com/AlHiMiK2/TestTask_ASpaces-main 
