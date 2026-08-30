@@ -10,15 +10,15 @@ Steam: profiles/76561198998688246
 Имею опыт моддинга Scrap Mechanic — мой мод собрал 2000+ подписчиков и 100 оценок, что подтверждает умение создавать востребованный пользовательский контент.
 
 ### Технические компетенции
-— Архитектура: Zenject, ScriptableObjects, UniRx.
-— Сеть: базовое знакомство с Mirror — использовал в прототипах, готов развиваться в этом направлении.
-— Оптимизация: активное использование Unity Profiler и Frame Debugger (выявление узких мест, снижение Draw Calls, управление памятью, оптимизация GC).
-— Графика: работа с URP, базовые шейдеры.
-— SDK: интеграция Yandex SDK (платёжки, реклама, лидерборды).
-— Дополнительные навыки: Blender (модели, несложная анимация), Photoshop (текстуры, UI), FL Studio (звуки, музыка).
+— Архитектура: Zenject, ScriptableObjects, UniRx.  
+— Сеть: базовое знакомство с Mirror — использовал в прототипах, готов развиваться в этом направлении.  
+— Оптимизация: активное использование Unity Profiler и Frame Debugger (выявление узких мест, снижение Draw Calls, управление памятью, оптимизация GC).  
+— Графика: работа с URP, базовые шейдеры.  
+— SDK: интеграция Yandex SDK (платёжки, реклама, лидерборды).  
+— Дополнительные навыки: Blender (модели, несложная анимация), Photoshop (текстуры, UI), FL Studio (звуки, музыка).  
 
 ### Стек
-Unity, C#, Zenject, UniRx, DOTween, Mirror (базово), Yandex SDK, ScriptableObjects, URP, ShaderLab (базово), Profiler, Frame Debugger, Git.
+Unity, C#, Zenject, UniRx, DOTween, Mirror (базово), Yandex SDK, ScriptableObjects, URP, ShaderLab (базово), Profiler, Frame Debugger, Git.  
 
 ### Портфолио
 https://steamcommunity.com/sharedfiles/filedetails/?id=3695299865  
